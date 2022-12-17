@@ -1,4 +1,4 @@
-# Developing-a-Convolutional-Neural-Network-CNN-for-Radiology-Text-Report-Classification-
+# Developing-a-Convolutional-Neural-Network-CNN-for-Radiology-Report-Classification-
 This project attempts to use Convolutional Neural Networks to classify Chest X-ray images into the healthy and pneumonia cases.
 
 Datasets include X-Ray images of patients with pneumonia in comparison with X-Ray images of healthy patients. 
